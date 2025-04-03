@@ -164,7 +164,7 @@ def generate_video():
 
 
 def open_github():
-    webbrowser.open("https://github.com")
+    webbrowser.open("https://github.com/Lun-OS/Name-flash-video-generation-python")
 
 
 root = tk.Tk()
